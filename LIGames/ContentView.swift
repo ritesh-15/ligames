@@ -1,19 +1,9 @@
-//
-//  ContentView.swift
-//  LIGames
-//
-//  Created by Ritesh Khore on 29/07/25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello, welcome to LI Games")
         }
         .padding()
     }
